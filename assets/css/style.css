@@ -292,7 +292,7 @@ aside{
 }
 @media screen and (max-width:425px){
     .collection-card h3{
-        padding-top: 12px;
+        padding-top: 22px;
     }
     .collection-card{
         width: 100%;
